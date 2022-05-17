@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there👋! I am Yoseph Ayala</h1>
+<h3 align="center">I am Economist who is interesed in Causal Inference and Data Science</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yoseph10&label=Profile%20views&color=0e75b6&style=flat" alt="Yoseph10" /> </p>
 
 <!--
 **Yoseph10/Yoseph10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
