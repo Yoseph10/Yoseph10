@@ -1,19 +1,23 @@
-<h1 align="center">Hi there👋! I am Yoseph Ayala</h1>
-<h3 align="left">I am an Economist who is interesed in Causal Inference and Data Science</h3>
+<h1 align="center">Hi there 👋! I'm Yoseph Ayala</h1> <h3 align="left">Economist | Data Scientist | Causal Inference & Data Enthusiast</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yoseph10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/> </p>
+About Me
+🚀 Data Scientist | Economist | Python/R/SQL | Power BI | Git | Big Data | Deep Learning | Microeconometrics
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yoseph10&label=Profile%20views&color=0e75b6&style=flat" alt="Yoseph10" /> </p>
+I’m passionate about turning data into actionable insights. With a background in economics and a specialization in data science, I’ve transitioned from consultant at Columbia University to Data Analyst in finance, where I drive data-informed decision-making.
 
-<!--
-**Yoseph10/Yoseph10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Core Skills:
+- Python | R | SQL | Power BI | Git
+- Machine Learning | Deep Learning | Big Data
+- Causal Inference | Microeconometrics
+- Data Visualization & Storytelling
+  
+💼 Experience:
+- Data Analyst at a leading financial institution
+- Diplomado in Data Science
+- Top-ranked Economics graduate
 
-Here are some ideas to get you started:
+🌐 Languages: Fluent in Spanish and English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's Connect
+🔗 I'm always open to collaborating on innovative data science projects and discussions. Reach out to me for partnerships, ideas, or just to chat!
+
+
